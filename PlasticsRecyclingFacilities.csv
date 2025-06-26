@@ -1,0 +1,58 @@
+OBJECTID,Name,Address,County,TELEPHONE,Email,Website,NAICS_Code,Infra_Type,Feedstock
+1,American Eagle Paper Mills,"1600 Pennsylvania Avenue, Tyrone, PA, 16686", ,(877) 684-1610,msheehan@aepaper.com,http://aepaper.com/,562920,Paper Recycling Facility,Paper
+2,APC Paper Group,"130 Sullivan Street, Claremont, NH, 03743", ,(603) 542-6330, ,http://www.apcpapergroup.com/,562920,Paper Recycling Facility,Paper
+3,Beloit Box Board Company,"801 Second Street, P.O. Box 386, Beloit, WI, 3512-0386", ,(608) 365-6671,jnichols@beloitboxboard.com,http://www.beloitboxboard.com/,562920,Paper Recycling Facility,Paper
+4,Boise Paper,"4585 Industrial Road, Jackson, AL,", ,(251) 246-8320,jckap@boisepaper.com,http://bph.boisepaper.com/,562920,Paper Recycling Facility,Paper
+5,BPM Inc.,"200 West Front Street, Peshtigo, WI, 54157", ,(715) 582-4551,bpm@bpmpaper.com,http://www.bpmpaper.com/,562920,Paper Recycling Facility,Paper
+6,Century Paper,"P.O. Box 432, Lake Winola, PA, 18625", ,(866) 767-2737,info@centurypaper.com,https://www.centurypaper.com/,562920,Paper Recycling Facility,Paper
+7,Clearwater Paper Corporation,"601 West Riverside, Suite 1100, Spokane, WA, 99201", ,(509) 344-5900, ,https://www.clearwaterpaper.com/,562920,Paper Recycling Facility,Paper
+8,Delta Paper,"122 Kissel Road, Unit B, Burlington, NJ, 08016", ,(856) 532-0333,info@deltapaper.com,http://deltapaper.com/,562920,Paper Recycling Facility,Paper
+9,Domtar Corporation,"234 Kingsley Park Drive, Fort Mill, SC, 29715", ,(803) 802-7500,communications@domtar.com,https://www.domtar.com/,562920,Paper Recycling Facility,Paper
+10,Donco Recycling Solutions,"737 N. Michigan Ave., Suite 1450, Chicago, IL, 60611", ,(312) 337-7822,info@doncosolutions.com,http://www.doncosolutions.com/,562920,Paper Recycling Facility,Paper
+11,Eagle Paper International Inc.,"4605 Pembroke Lake Circle, Suite 100, Virginia Beach, VA, 23455", ,(757) 363-8103, ,http://www.eaglepaperinternational.com/,562920,Paper Recycling Facility,Paper
+12,"Erving Industries, Inc.","97 East Main Street, Erving, MA, 01344", ,(413) 422-2700,erving@ervingpapermill.com,http://www.ervingpaper.com/,562920,Paper Recycling Facility,Paper
+13,Evergreen Packaging LLC,"5350 Poplar Ave., Suite 600, Memphis, TN, 38119", ,(901) 821-5350, ,https://evergreenpackaging.com/,562920,Paper Recycling Facility,Paper
+14,Finch Paper LLC,"1 Glen Street, Glens Falls, NY, 12801", ,(800) 833-9983,info@finchpaper.com,http://www.finchpaper.com/,562920,Paper Recycling Facility,Paper
+15,Gabriel Container Co,"8844 S Millergrove Drive, Santa Fe Springs, CA, 90670", ,(562) 699-1051, ,https://gabrielcontainer.com/,562920,Paper Recycling Facility,Paper
+16,Georgia-Pacific LLC,"133 Peachtree St, Atlanta, GA, 30303", ,(404) 652-4000, ,https://www.gp.com/,562920,Paper Recycling Facility,Paper
+17,Glatfelter,"Capital Towers South, 4350 Congress Street, Suite 600, Charlotte, NC, 28209", ,(717) 850-0170,info@glatfelter.com,http://www.glatfelter.com/,562920,Paper Recycling Facility,Paper
+18,Gorham Paper & Tissue,"72 Cascade Flt, Gorham, NH, 03581", ,(603) 342-2000,sales@gorhampt.com,http://www.gorhampt.com/,562920,Paper Recycling Facility,Paper
+19,"Graphic Packaging International, LLC","1500 Riveredge Parkway NW, Atlanta, GA, 30328", ,(770) 240-7200, ,http://www.graphicpkg.com/,562920,Paper Recycling Facility,Paper
+20,"Green Bay Packaging, Inc.","1700 Webster Court, Green Bay, WI , 54302", ,(920) 433-5111, ,https://gbp.com/,562920,Paper Recycling Facility,Paper
+21,Green Field Paper Company,"7196 Clairemont Mesa Boulevard, San Diego, CA, 92111", ,(858) 565-2585,info@greenfieldpaper.com,https://www.greenfieldpaper.com/,562920,Paper Recycling Facility,Paper
+22,Greenpac Mill,"4400 Royal Ave., Niagara Falls, NY, 14303", ,(716) 524-3100, ,http://www.greenpacmill.com/,562920,Paper Recycling Facility,Paper
+23,Greif Inc.,"425 Winter Road City, Delaware, OH, 43015", ,(740) 549-6000, ,https://www.greif.com/,562920,Paper Recycling Facility,Paper
+24,Hood Container Corporation,"2877 Scepter Road, Waverly, TN, 37185", ,(931) 535-4285,jimmy.gibson@hoodcontainer.com,https://www.hoodcontainercorporation.com/,562920,Paper Recycling Facility,Paper
+25,Inland Empire Paper Co.,"3320 N. Argonne, Willwood, WA, 99212", ,(509) 924-1911,iep@iepco.com,http://iepco.com/,562920,Paper Recycling Facility,Paper
+26,International Paper Company,"6400 Poplar Ave, Memphis, TN, 38197", ,(901) 415-6326,julie.alsup@ipaper.com,https://www.internationalpaper.com/,562920,Paper Recycling Facility,Paper
+27,Jackson Paper Manufacturing,"152 West Main Street, Sylva, NC, 28779", ,(828) 586-5534,jastafford@jacksonpaper.net,https://www.jacksonpaper.net/,562920,Paper Recycling Facility,Paper
+28,Keyes Packaging Group,"3715 State Hwy 97A N, Wenatchee, WA, 98801", ,(509) 663-8537,sales@keyespackaging.com,http://www.keyespackaging.com/,562920,Paper Recycling Facility,Paper
+29,Kimberly-Clark Corporation,"PO Box 2020, Neenah, WI, 54957-2020", ,(888) 525-8388, ,https://www.kimberly-clark.com/en/,562920,Paper Recycling Facility,Paper
+30,Liberty Paper Incorporated,"5600 Highway 169 North, New Hope, MN, 55428", ,(763) 261-6100, ,https://www.libertypaper.com/,562920,Paper Recycling Facility,Paper
+31,Long Falls Paperboard LLC,"161 Wellington Road, Brattleboro, VT, 05301", ,(802) 257-0365, ,https://www.longfallspaperboard.com/,562920,Paper Recycling Facility,Paper
+32,Marcal Paper,"1 Market Street, Elmwood Park, NJ, 07407", ,(201) 796-4000, ,https://www.marcalpaper.com/,562920,Paper Recycling Facility,Paper
+33,Maryland Paper Company,"16144 Elliott Parkway, Williamsport, MD, 21795", ,(301) 223-6550, ,https://www.marylandpaper.com/,562920,Paper Recycling Facility,Paper
+34,"Monadnock Paper Mills, Inc.","117 Antrim Road, Bennington, NH, 03442", ,(603) 588-3311,info@mpm.com,https://mpm.com/,562920,Paper Recycling Facility,Paper
+35,"Neenah, Inc.","3460 Preston Ridge Road, Suite 600, Alpharetta, GA, 30005", ,(678) 566-6500, ,https://www.neenahpaper.com/,562920,Paper Recycling Facility,Paper
+36,New Leaf Paper LLC,"800 S Broadway, Ste 209, Walnut Creek, CA, 94596", ,(888) 989-5323,info@newleafpaper.com,http://newleafpaper.com/,562920,Paper Recycling Facility,Paper
+37,"New-Indy Containerboard, LLC","3500 Porsche Way, Suite 150, Ontario, CA, 91764", ,(909) 296-3400,info@new-indycb.com,http://newindycontainerboard.com/,562920,Paper Recycling Facility,Paper
+38,"Newman & Company, Inc","6101 Tacony Street, Philadelphia, PA, 19135", ,(215) 333-8700,sales@newmanpaperboard.com,https://newmanpaperboard.com/,562920,Paper Recycling Facility,Paper
+39,"Nittany Paper Mills, Inc.","6395 SR 103 N., Building 5A, Lewiston, PA, 17044", ,(888) 288-7907,info@nittanypaper.com,http://www.nittanypaper.com/,562920,Paper Recycling Facility,Paper
+40,North Pacific Paper Company,"3001 Industrial Way, Longview, WA, 98632", ,(800) 426-0866,norpacmedia@norpacpaper.com,http://norpacpaper.com/,562920,Paper Recycling Facility,Paper
+41,Ox Industries,"600 West Elm Avenue, Hanover, PA, 17331", ,(800) 414-2476,info@oxindustries.com,https://oxindustries.com/,562920,Paper Recycling Facility,Paper
+42,PABCO Paper,"4460 Pacific Blvd., Vernon, CA , 90058", ,(323) 581-6113,dave.evans@pabcopaper.com,http://www.pabcopaper.com/,562920,Paper Recycling Facility,Paper
+43,Packaging Corporation of America,"1 North Field Court, Lake Forest, IL, 60045", ,(800) 456-4725, ,https://www.packagingcorp.com/,562920,Paper Recycling Facility,Paper
+44,Papertec Inc.,"141 Lanza Ave, Building 29, Garfield, NJ, 07026", ,(888) 444-9911,sales@papertecinc.com,http://www.papertecinc.com/,562920,Paper Recycling Facility,Paper
+45,"PaperWorks Industries, Inc.","40 Monument Road, Suite 200, Bala Cynwyd, PA, 19004", ,(215) 984-7000,news@onepaperworks.com,http://www.paperworksindustries.com/,562920,Paper Recycling Facility,Paper
+46,Port Townsend Paper Corporation,"100 Mill Road, Port Townsend, WA, 98368", ,(360) 385-3170,sales@ptpc.com,https://www.ptpc.com/,562920,Paper Recycling Facility,Paper
+47,Republic Paperboard Company LLC,"8801 Southwest Lee Boulevard, Lawton, OK, 73505", ,(580) 510-2200, ,https://www.republicpaperboard.com/,562920,Paper Recycling Facility,Paper
+48,Royal Paper Converting Inc.,"711 N 17th Ave, Phoenix, AZ, 85007", ,(800) 258-9007,info@royalpaper.us,http://royalpaper.us/,562920,Paper Recycling Facility,Paper
+49,Seaman Paper,"35 Wilkins Road, Gardner, MA, 01440", ,(978) 632-1513, ,https://www.seamanpaper.com/,562920,Paper Recycling Facility,Paper
+50,Smurfit Kappa Forney Mill,"855 East Highway 80, Forney, TX, 75126", ,(214) 515-6400, ,http://smurfitkappa.com/ie/locations/united-states/smurfit-kappa-forney-mills,562920,Paper Recycling Facility,Paper
+51,"Southeastern Paperboard, Inc.","100 South Harris Road, Piedmont, SC, 29673", ,(864) 277-7353, ,http://www.southeasternpaperboard.com/,562920,Paper Recycling Facility,Paper
+52,ST Paper LLC,"106 E. Central Avenue, Oconto Falls, WI, 54154", ,(920) 846-3411,info@stpaperllc.com,https://www.stpaperllc.com/,562920,Paper Recycling Facility,Paper
+53,Twin Rivers Paper Company,"82 Bridge Avenue, Madawaska, ME , 04756", ,(207) 728-3321,info@twinriverspaper.com,https://www.twinriverspaper.com/,562920,Paper Recycling Facility,Paper
+54,UP Paper LLC,"402 West Elk Street, Manistique, MI, 49854", ,(906) 286-4265, ,https://uppaperllc.com/,562920,Paper Recycling Facility,Paper
+55,Valley Converting Co.,"South 4th Street, Toronto, OH, 43964", ,(740) 537-2152,mark@valleyconverting.com,http://www.valleyconverting.com/,562920,Paper Recycling Facility,Paper
+56,Verso Corporation Duluth Mill,"100 North Central Avenue, Duluth, MN, 55807", ,(218) 628-5100, ,https://www.versoco.com/,562920,Paper Recycling Facility,Paper
+57,WestRock Company,"1000 Abernathy Road NE, Atlanta, GA , 30328", ,(770) 448-2193, ,https://www.westrock.com/,562920,Paper Recycling Facility,Paper
